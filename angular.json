@@ -32,7 +32,6 @@
             ],
             "styles": [
               "node_modules/bootstrap/dist/css/bootstrap.min.css",
-              "node_modules/simplebar/dist/simplebar.min.css",
               "src/styles.scss"
             ]
           },
@@ -50,7 +49,10 @@
                   "maximumError": "8kB"
                 }
               ],
-              "outputHashing": "all"
+              "outputHashing": "all",
+              "subresourceIntegrity": true,
+              "optimization": true,
+              "sourceMap": false
             },
             "development": {
               "optimization": false,
