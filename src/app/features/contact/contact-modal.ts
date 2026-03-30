@@ -158,9 +158,9 @@ export class ContactModal {
 
   contactInfo = [
     { type: 'Name',     value: 'Kelvin Mundi',                 icon: 'ion-logo-ionic',   link: null },
-    { type: 'Email',    value: 'kevkmundy@gmail.com',           icon: 'ion-mail-outline', link: 'mailto:kevkmundy@gmail.com' },
-    { type: 'Location', value: 'Atlanta, GA, USA',              icon: 'ion-location-outline', link: null },
-    { type: 'Phone',    value: '+1 (404) 789 9005',             icon: 'ion-call-outline', link: 'tel:+14047899005' },
+    { type: 'Email',    value: 'kevkmundy@gmail.com',           icon: 'ion-ios-mail-open', link: 'mailto:kevkmundy@gmail.com' },
+    { type: 'Location', value: 'Atlanta, GA, USA',              icon: 'ion-ios-locate', link: null },
+    { type: 'Phone',    value: '+1 (404) 789 9005',             icon: 'ion-ios-call', link: 'tel:+14047899005' },
   ];
 
   submit(): void {
