@@ -13,5 +13,12 @@ export const PROJECTS: ProjectItem[] = [
     image: 'img/leadthaw.png',
     link: 'https://www.leadthaw.com/',
     category: 'photos'
-  }
+  },
+  {
+    title: 'MarketDash',
+    description: 'A real-time market data dashboard with real-time price ticks and watchlist management.',
+    image: 'img/market-dash.png',
+    link: 'https://market-dashboard-eight-sigma.vercel.app/',
+    category: 'photos'
+  },
 ];
