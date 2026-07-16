@@ -12,7 +12,7 @@ import { RotatingHeadline } from './rotating-headline/rotating-headline';
         <div class="row h-100 align-items-center justify-content-center text-center">
           <div class="col-12">
             <img class="home-img mb-4"
-                 src="img/atl-station.jpg"
+                 src="img/myself.png"
                  alt="Kelvin Mundi profile photo"
                  width="200" height="200">
             <div class="home-content">
