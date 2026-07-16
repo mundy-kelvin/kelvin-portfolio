@@ -62,7 +62,7 @@ import { AgePipe } from '../../core/pipes/age.pipe';
               </address>
 
               <div class="d-flex align-items-center flex-wrap gap-3">
-                <a href="assets/kelvin-mundi-resume.docx" download class="btn button-main button-scheme content-download" aria-label="Download Resume">
+                <a href="assets/kelvin-mundi_resume.pdf" download class="btn button-main button-scheme content-download" aria-label="Download Resume">
                   Download Resume
                 </a>
                 <ul class="content-follow list-unstyled">
