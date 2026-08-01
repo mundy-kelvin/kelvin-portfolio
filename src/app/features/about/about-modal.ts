@@ -33,9 +33,9 @@ import { AgePipe } from '../../core/pipes/age.pipe';
             </div>
             <div class="col-12 col-lg-7 info-content">
               <h2 class="content-subtitle">Who am I?</h2>
-              <h3 class="content-title">Senior Frontend Engineer specializing in React and Angular.</h3>
+              <h3 class="content-title">Senior Full Stack Engineer.</h3>
               <div class="content-description">
-                <p>Senior Frontend Engineer specializing in React and Angular, enterprise-scale architecture,
+                <p>Senior full stack Engineer well versed in React and Angular, enterprise-scale architecture,
                    and high-performance financial applications. I lead client implementations from development
                    through production go-live, building scalable UI systems and driving business impact.</p>
                 <p>Based in Atlanta, GA, originally from Nairobi, Kenya (where the sun shines all year long!).
