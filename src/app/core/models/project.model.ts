@@ -8,6 +8,13 @@ export interface ProjectItem {
 
 export const PROJECTS: ProjectItem[] = [
   {
+    title: 'PunchedOut',
+    description: 'A React Native (Expo) app that photographs handwritten timesheet notes, extracts tasks with Claude AI, and emails a formatted timesheet via Gmail.',
+    image: 'img/po-promo.webp',
+    link: 'https://github.com/mundy-kelvin/punchedout',
+    category: 'photos'
+  },
+  {
     title: 'LeadThaw',
     description: 'A follow-up automation platform for independent professionals — track leads, set reminders, and close more deals without the weight of a full CRM. Built with Next.js.',
     image: 'img/leadthaw.png',

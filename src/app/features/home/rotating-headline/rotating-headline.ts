@@ -17,7 +17,7 @@ import { CommonModule } from '@angular/common';
   `
 })
 export class RotatingHeadline implements OnInit, OnDestroy {
-  @Input() words: string[] = ['a Developer', 'an Engineer', 'a Designer', 'a Freelancer'];
+  @Input() words: string[] = ['a Full Stack Engineer', 'a Developer', 'a Freelancer'];
   @ViewChild('wrapper', { static: true }) wrapper!: ElementRef<HTMLSpanElement>;
 
   currentIndex = signal(0);

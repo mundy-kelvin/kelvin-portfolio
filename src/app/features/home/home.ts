@@ -18,7 +18,7 @@ import { RotatingHeadline } from './rotating-headline/rotating-headline';
             <div class="home-content">
               <h1 class="home-name">Kelvin <span class="color-scheme">Mundi</span></h1>
               <app-rotating-headline
-                [words]="['a Developer', 'an Engineer', 'a Designer', 'a Freelancer']">
+                [words]="['a Full Stack Engineer', 'a Developer', 'a Freelancer']">
               </app-rotating-headline>
             </div>
           </div>
