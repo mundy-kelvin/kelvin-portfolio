@@ -8,7 +8,7 @@ export interface ProjectItem {
 
 export const PROJECTS: ProjectItem[] = [
   {
-    title: 'PunchedOut',
+    title: 'Punchedout',
     description: 'A React Native (Expo) app that photographs handwritten timesheet notes, extracts tasks with Claude AI, and emails a formatted timesheet via Gmail.',
     image: 'img/po-promo.webp',
     link: 'https://github.com/mundy-kelvin/punchedout',
